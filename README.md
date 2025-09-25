@@ -42,8 +42,8 @@ Actualmente estoy construyendo un portafolio práctico de proyectos orientados a
 ---
 
 ## 📫 Contacto
-- LinkedIn: https://www.linkedin.com/in/TU-LINK  
-- Email: tuemail@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mat%C3%ADas-segovia-0b0769276/
+- Email: matii.segovia96@gmail.com  
 - Estado: **Open to Work — disponible para entrevistas / roles junior**
 
 ---
